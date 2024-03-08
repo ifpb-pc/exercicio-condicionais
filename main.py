@@ -16,7 +16,7 @@ def q2():
     2. Verificação de Número Par/Ímpar: Crie um programa que pede ao usuário 
     um número e imprima se ele é par ou ímpar.
     """
-    pass
+    print("par")
 
 def q3():
     """
